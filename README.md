@@ -1,5 +1,5 @@
 # C_File_Functions_Reader_11_12_2022
-Project -> C_File_Functions_Reader
+Project -> C File Functions Reader using Stack Operation
 
 # This Source code can be used to Find the Functions in .C(Dot C) Files, using Command Prompt cmd.exe
 # Command Line Arguments in Python is given below:
